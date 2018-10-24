@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="hms feedback test">
+<test name = "hms App test">
+<classes>
+<class name = "com.qa.hms.testcases.LoginPageTest"></class>
+<!-- <class name = "com.qa.hms.testcases.FeedbackFormPageTest"></class> -->
+<class name = "com.qa.hms.testcases.HomePageTest"></class>
+</classes>
+</test>
+</suite>

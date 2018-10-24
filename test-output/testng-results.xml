@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23256" started-at="2018-10-05T18:06:22Z" finished-at="2018-10-05T18:06:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23256" started-at="2018-10-05T18:06:22Z" finished-at="2018-10-05T18:06:45Z">
+      <class name="com.qa.hms.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.qa.hms.testcases.LoginPageTest@1ef45e3]" name="setUP" is-config="true" duration-ms="12641" started-at="2018-10-05T11:06:22Z" finished-at="2018-10-05T11:06:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="verifytitleTest()[pri:1, instance:com.qa.hms.testcases.LoginPageTest@1ef45e3]" name="verifytitleTest" duration-ms="32" started-at="2018-10-05T11:06:34Z" finished-at="2018-10-05T11:06:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hms.testcases.LoginPageTest@1ef45e3]" name="tearDown" is-config="true" duration-ms="724" started-at="2018-10-05T11:06:35Z" finished-at="2018-10-05T11:06:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.qa.hms.testcases.LoginPageTest@1ef45e3]" name="setUP" is-config="true" duration-ms="7067" started-at="2018-10-05T11:06:35Z" finished-at="2018-10-05T11:06:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="verifyloginTest()[pri:2, instance:com.qa.hms.testcases.LoginPageTest@1ef45e3]" name="verifyloginTest" duration-ms="1813" started-at="2018-10-05T11:06:42Z" finished-at="2018-10-05T11:06:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyloginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hms.testcases.LoginPageTest@1ef45e3]" name="tearDown" is-config="true" duration-ms="871" started-at="2018-10-05T11:06:44Z" finished-at="2018-10-05T11:06:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hms.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
